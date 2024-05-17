@@ -1,0 +1,26 @@
+.list-page {
+  /* display: flex;
+    flex-direction: column;
+    align-items: center; */
+  width: 70%;
+  margin: 0 auto;
+}
+.back-main {
+  width: 100%;
+  height: 50px;
+  background-color: aqua;
+  margin-bottom: 2%;
+  font-size: 16px;
+  border: 0px;
+}
+button:hover{
+    cursor:pointer;
+}
+.list-page__title {
+  font-size: 34px;
+  margin-bottom: 26px;
+}
+
+.list-page ul li {
+  font-size: 18px;
+}
